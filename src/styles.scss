@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@ng-select/ng-select/themes/default.theme.css";
+@font-face {
+    font-family: "Lato1";
+    src: local("Lato"), url(./assets/Fonts/Lato-Black.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Lato2";
+    src: local("Lato"), url(./assets/Fonts/Lato-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Lato3";
+    src: local("Lato"), url(./assets/Fonts/Lato-Italic.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Lato4";
+    src: local("Lato"), url(./assets/Fonts/Lato-Light.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Lato5";
+    src: local("Lato"), url(./assets/Fonts/Lato-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Lato6";
+    src: local("Lato"), url(./assets/Fonts/Lato-Thin.ttf) format("truetype");
+}
+.same {
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+  }
+  a{
+    cursor: pointer;
+  }
+  
